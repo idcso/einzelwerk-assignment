@@ -1,11 +1,12 @@
+import { MainPage } from 'pages/MainPage';
 import './styles/index.css';
 
-function App() {
+const App = () => {
   return (
     <>
-      <h1 className="text-7xl text-gray-400 font-semibold">Hello world!</h1>
+      <MainPage />
     </>
   );
-}
+};
 
 export default App;

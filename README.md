@@ -2,13 +2,13 @@
 
 ## Как посмотреть работу
 
-Сборщиком Vite был создан продакшн билд, который размещен на GitHub Pages, [онлайн посмотреть и протестировать форму можно тут](https://idcso.github.io/einzelwerk-assignment/).
+Сборщиком Vite был создан продакшн билд, который размещен на GitHub Pages, [онлайн посмотреть и протестировать форму можно тут](https://idcso.github.io/einzelwerk-assignment/){:target="\_blank"}
 
 Для запуска проекта локально:
 
 1. клонировать репозиторий
-2. npm install
-3. npm run dev
+2. `npm install`
+3. `npm run dev`
 
 ## Примененный стек
 
@@ -36,6 +36,8 @@
 
 ## Демонстрация различных состояний формы
 
-- ![Скриншот пустой формы](https://i.imgur.com/mGx3QeK.png)
-- ![Скриншот заполненной формы](https://i.imgur.com/hrnfLQ6.png)
-- ![Скриншот формы с ошибками валидации](https://i.imgur.com/AVD35XV.png)
+![Скриншот пустой формы](https://i.imgur.com/mGx3QeK.png)
+
+![Скриншот заполненной формы](https://i.imgur.com/hrnfLQ6.png)
+
+![Скриншот формы с ошибками валидации](https://i.imgur.com/AVD35XV.png)
